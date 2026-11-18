@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "config_version": 1,
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0",
+  "update_type": "none",
+  "update_title": "New OnlyFlow update",
+  "update_message": "A new version of OnlyFlow is ready.",
+  "update_button": "Update now",
+  "later_button": "Later",
+  "download_url": "",
+  "logo_url": "",
+  "texts": {
+    "app_name": "OnlyFlow",
+    "tagline": "Speak. It types. Anywhere.",
+    "hero_title": "Hold the logo and talk",
+    "hero_subtitle": "Tap any text box in any app. The OnlyFlow logo appears next to it. Hold it, speak, release - your words are pasted.",
+    "dictate_button": "Try dictation",
+    "recording_button": "Recording Mode",
+    "recording_subtitle": "Classes, calls, YouTube, your own thoughts",
+    "history_title": "Recent",
+    "store_button": "Our Store",
+    "created_by": "Created by Seton Jr",
+    "no_key_title": "Add an API key to start",
+    "no_key_message": "OnlyFlow runs on your own AI key. Open Settings → AI keys and paste a key from OpenRouter, Gemini, OpenAI or Groq (these can also hear speech).",
+    "offline_message": "Your internet connection has a problem, please connect to the internet. Your recording is saved and will be processed automatically.",
+    "summary_ready": "Your earlier recording's summary is ready.",
+    "blocked_audio_message": "This app blocks internal audio. Turn on 'Speaker audio through microphone' in Recording Mode sources."
+  },
+  "links": {
+    "store": "https://coursewala-official.vercel.app/",
+    "created_by": "https://t.me/Affordablesellers",
+    "support": "",
+    "channel": "",
+    "course_app": ""
+  },
+  "features": {
+    "recording_mode": true,
+    "store_button": true,
+    "created_by": true,
+    "insights": true,
+    "dictate_test": true,
+    "floating_logo": true
+  },
+  "buttons": [],
+  "theme": {
+    "primary": "#2DD4BF",
+    "accent": "#8B5CF6",
+    "background": "#070A0F"
+  },
+  "announcement": {
+    "id": "",
+    "title": "",
+    "message": "",
+    "button": "",
+    "url": ""
+  }
+}

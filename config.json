@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "config_version": 2,
+  "config_version": 3,
   "latest_version_code": 2,
   "latest_version_name": "1.0.1",
-  "update_type": "optional",
+  "update_type": "mandatory",
   "update_title": "New OnlyFlow update",
   "update_message": "OnlyFlow 1.0.1 is here: faster results and a new look.",
   "update_button": "Update now",

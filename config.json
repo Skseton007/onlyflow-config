@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "config_version": 8,
-  "latest_version_code": 3,
-  "latest_version_name": "1.0.2",
+  "config_version": 9,
+  "latest_version_code": 4,
+  "latest_version_name": "1.0.3",
   "update_type": "optional",
-  "update_title": "OnlyFlow 1.0.2 is ready",
-  "update_message": "New: 30 API keys, a dictionary that learns from your corrections, command switches, automatic pause for payment apps, history select/copy/delete, better Q&A, Bengali and multi-language support. Your keys, settings and history stay.",
+  "update_title": "OnlyFlow 1.0.3 is ready",
+  "update_message": "Fix: payment apps (like super.money) no longer show the turn-off-accessibility warning - OnlyFlow now switches itself off the moment one opens. Your keys, settings and history stay.",
   "update_button": "Update now",
   "later_button": "Later",
-  "download_url": "https://github.com/Skseton007/onlyflow-config/releases/tag/v1.0.2",
+  "download_url": "https://github.com/Skseton007/onlyflow-config/releases/tag/v1.0.3",
   "logo_url": "",
   "texts": {
     "app_name": "OnlyFlow",
@@ -58,6 +58,6 @@
     "button": "",
     "url": ""
   },
-  "apk_url": "https://github.com/Skseton007/onlyflow-config/releases/download/v1.0.2/OnlyFlow-1.0.2.apk",
+  "apk_url": "https://github.com/Skseton007/onlyflow-config/releases/download/v1.0.3/OnlyFlow-1.0.3.apk",
   "hold_grow": 0.6
 }
